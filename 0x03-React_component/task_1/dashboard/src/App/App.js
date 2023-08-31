@@ -3,7 +3,7 @@ import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 import Login from "../Login/Login";
 import CourseList from "../CourseList/CourseList";
-import Notifications from "../Notifications/Notifications";
+import Notifications from "../../../../task_2/dashboard/src/Notifications/Notifications";
 import "./App.css";
 import PropTypes from "prop-types";
 import { getLatestNotification } from "../utils/utils";
